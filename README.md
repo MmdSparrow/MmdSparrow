@@ -28,7 +28,8 @@ My name is Sayed Mohammad Ali, I am a 20 years old computer engineer and math te
 <li> Teacher of number theory in <strong>Isfahan Mathematics House</strong> </li>
 <li> Administrator of number theory group of <strong>Isfahan Mathematics House</strong> </li>
 </ul>
-<img src="static/IMH.png" alt="Isfahan Mathematics House" width="137" height="137"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="static/NT.jpg" alt="Number Theory" width="137" height="137">
+<img src="static/IMH.png" alt="Isfahan Mathematics House" width="137" height="137"> 
+<img src="static/NT.jpg" alt="Number Theory" width="137" height="137">
 
 <h3> Fields of interest </h3>
 <ul>
