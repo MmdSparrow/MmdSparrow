@@ -64,7 +64,7 @@ My name is Sayed Mohammad Ali, I am a 20 years old computer engineer and math te
 <strong>email:</strong> esmirk.137@gmail.com <br>
 <br>
 
-<a href="https://linkedin.com/in/sayed-mohammad-ali-mirkazemi-816a9b222"><img src="static/linkedin.svg" alt="LinkedIn" width="30" height="30"></a>
+<a href="https://linkedin.com/in/sayed-mohammad-ali-mirkazemi-816a9b222"><img src="static/linkedin.svg" alt="LinkedIn" width="24" height="24"></a>
 &nbsp;
 <a href="https://t.me/mmd_sparrow_137"><img src="static/telegram.svg" alt="Telegram" width="30" height="30"></a>
 &nbsp;
