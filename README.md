@@ -6,7 +6,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MmdSparrow&layout=compact&show_icons=true&title_color=&icon_color=FFD700&text_color=daf7dc&bg_color=070c20"/>
 </table>
 
-
 <h1> Hi there 👋 </h1>
 
 <blockquote >
@@ -48,7 +47,7 @@ My name is Sayed Mohammad Ali, I am a 20 years old computer engineer and math te
 <li> Analytic number theory</li>
 </ul>
 
-<h3> Programming languages </h3>
+<h3> Programming skills </h3>
 <ul>
   <li>Java
   <ul>
@@ -63,8 +62,13 @@ My name is Sayed Mohammad Ali, I am a 20 years old computer engineer and math te
 </ul>
 
 <h3> Contact me</h3>
-<ul>
-  <li><strong>email:</strong> esmirk.137@gmail.com</li>
-  <li><strong>telegram:</strong> <a href="https://t.me/mmd_sparrow_137"> mmd_sparrow_137 </a></li>
-  <li><strong><a href="https://linkedin.com/in/sayed-mohammad-ali-mirkazemi-816a9b222"> LinkedIn </a></strong> </li>
-</ul>
+<strong>email:</strong> esmirk.137@gmail.com <br>
+<br>
+
+<a href="https://linkedin.com/in/sayed-mohammad-ali-mirkazemi-816a9b222"> <img src="static/linkedIn.svg" alt="LinkedIn" width="22" height="22"> </a>
+&nbsp;
+<a href="https://t.me/mmd_sparrow_137"> <img src="static/telegram.svg" alt="telegram" width="30" height="30"> </a>
+&nbsp;
+<a href="https://twitter.com/MmdSparrow317?t=ROjVfTPcIoe2haI_ycnOoQ&s=08"> <img src="static/twitter.svg" alt="twitter" width="30" height="30"> </a>
+&nbsp;
+<a href="https://github.com/MmdSparrow"> <img src="static/facebook.svg" alt="facebook" width="30" height="30"> </a>
