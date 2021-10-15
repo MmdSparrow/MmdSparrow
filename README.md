@@ -38,15 +38,6 @@ My name is Sayed Mohammad Ali, I am a 20 years old computer engineer and math te
   </table>
 </figure>
 
-
-<h3> Fields of interest </h3>
-<ul>
-<li> Back-end Development </li>
-<li> Artificial Intelligence </li>
-<li> Data science </li>
-<li> Analytic number theory</li>
-</ul>
-
 <h3> Programming skills </h3>
 <ul>
   <li>Java
@@ -59,6 +50,14 @@ My name is Sayed Mohammad Ali, I am a 20 years old computer engineer and math te
   <li>C</li>
   <li>MySQL</li>
   <li>HTML</li>
+</ul>
+
+<h3> Fields of interest </h3>
+<ul>
+<li> Back-end Development </li>
+<li> Artificial Intelligence </li>
+<li> Data science </li>
+<li> Analytic number theory</li>
 </ul>
 
 <h3> Contact me</h3>
