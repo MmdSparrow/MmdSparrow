@@ -21,22 +21,7 @@ My name is Sayed Mohammad Ali, I am a 20 years old computer engineer and math te
 <li> Back-end developer of <strong>Fanap Soft</strong> company </li>
 <li> Bachelor student of Computer Engineering at <strong>AmirKabir University of Technology</strong> </li>
 <li> Teacher of number theory in <strong>Isfahan Mathematics House</strong> </li>
-<li> Supervisor of number theory group of <strong>Isfahan Mathematics House</strong> </li>
 </ul>
-
-
-<figure class="half">
-  <table>
-    <tr>
-      <td>
-        <img src="static/IMH_bg.png" alt="Isfahan Mathematics House" width="137" height="150"> 
-      </td>
-      <td>
-        <img src="static/NT.jpg" alt="Number Theory" width="137" height="137">
-      </td>
-    </tr>
-  </table>
-</figure>
 
 <h3> Programming skills </h3>
 <ul>
