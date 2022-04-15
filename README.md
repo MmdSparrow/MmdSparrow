@@ -32,7 +32,7 @@ My name is Sayed Mohammad Ali, I am a 20 years old computer engineer and math te
   </ul>
   </li>
   <li>Python</li>
-  <li>C</li>
+  <li>C/C++</li>
   <li>MySQL</li>
   <li>HTML</li>
 </ul>
