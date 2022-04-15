@@ -34,7 +34,12 @@ My name is Sayed Mohammad Ali, I am a 20 years old computer engineer and math te
   <li>Python</li>
   <li>C/C++</li>
   <li>MySQL</li>
-  <li>HTML</li>
+  <li>SQL Server</li>
+  <li>Postgres</li>
+  <li>MongoDB</li>
+  <li>GraphDB</li>
+  <li>Hibernate</li>
+  <li>Neo4j</li>
 </ul>
 
 <h3> Fields of interest </h3>
