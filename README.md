@@ -8,13 +8,14 @@
   <em>Psalm 31:24</em> 
 </blockquote>
 </div>
+
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MmdSparrow&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MmdSparrow&layout=compact&theme=tokyonight&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MmdSparrow&show_icons=true&count_private=true&title_color=&icon_color=FFD700&text_color=daf7dc&bg_color=070c20"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MmdSparrow&layout=compact&show_icons=true&title_color=&icon_color=FFD700&text_color=daf7dc&bg_color=070c20&count_private=true"/>
 </div>
 
 ---
