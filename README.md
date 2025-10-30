@@ -2,8 +2,7 @@
 <h3 align="center">Data Scientist</h3>
 
 <p align="center">
-"Be strong, and let your heart take courage, all you who wait for the LORD!"  
-<em>— Psalm 31:24</em>
+<blockquote > "Be strong, and let your heart take courage, all you who wait for the LORD!" <br> <em>Psalm 31:24</em> </blockquote>
 </p>
 
 ---
