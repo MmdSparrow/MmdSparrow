@@ -1,14 +1,6 @@
 <h1 align="center">Hi there, I'm Sayed 👋</h1>
 <h3 align="center">Data Scientist</h3>
 
-<div align="center">
-<blockquote> 
-  "Be strong, and let your heart take courage, all you who wait for the LORD!"
-  <br> 
-  <em>Psalm 31:24</em> 
-</blockquote>
-</div>
-
 ---
 
 ### 📊 GitHub Stats
@@ -55,6 +47,14 @@
 </p>
 
 ---
+
+<div align="center">
+<blockquote> 
+  "Be strong, and let your heart take courage, all you who wait for the LORD!"
+  <br> 
+  <em>Psalm 31:24</em> 
+</blockquote>
+</div>
 
 <p align="center">✨ Thanks for visiting! ✨</p>
 
