@@ -1,7 +1,7 @@
 <h1> Stats </h1>
-<table>
+<!-- <table>
     <img src="https://github-readme-stats.vercel.app/api?username=MmdSparrow&show_icons=true&count_private=true&title_color=&icon_color=FFD700&text_color=daf7dc&bg_color=070c20"/>
-</table>
+</table> -->
 <table>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MmdSparrow&layout=compact&show_icons=true&title_color=&icon_color=FFD700&text_color=daf7dc&bg_color=070c20&count_private=true"/>
 </table>
