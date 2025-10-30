@@ -23,9 +23,9 @@
 ### 👨‍💻 About Me
 - 🎓 **24-year-old Computer Engineering graduate** from **Amirkabir University of Technology (Tehran Polytechnic)**
 - 💼 **2 years of professional experience as a Backend Developer**
-- 🔄 Currently transitioning to a career in **Data Science & Machine Learning**
+<!-- - 🔄 Currently transitioning to a career in **Data Science & Machine Learning** -->
 - 🤖 Academic focus in **Artificial Intelligence**
-- 🧠 Interested in **Neural Networks, Deep Learning, and Image Processing**
+- 🧠 Interested in **Deep Neural Network, Stochastic Models, and Image Processing**
 - 💡 Strong analytical mindset with solid foundations in **Python, Pytorch, and problem-solving**
 - 🚀 Passionate about learning, research, and building real-world projects in AI
 
