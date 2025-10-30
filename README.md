@@ -15,13 +15,7 @@
 
 <h1>About me</h1>
 <h3> Personal information </h3>
-My name is Sayed Mohammad Ali, I am a 20 years old computer engineer and math teacher. In summary:
-
-<ul>
-<li> Back-end developer </li>
-<li> Bachelor student of Computer Engineering at <strong>AmirKabir University of Technology</strong> </li>
-<li> Teacher of number theory in <strong>Isfahan Mathematics House</strong> </li>
-</ul>
+Prolific data science enthusiast with a strong foundation in machine learning and neural networks, developed through self-study and hands-on projects. Skilled in data analysis, modeling, and problem-solving, with excellent communication and teamwork abilities. Highly disciplined and responsible, with a strong commitment to continuous learning and professional growth
 
 <h3> Programming skills </h3>
 <ul>
@@ -32,22 +26,7 @@ My name is Sayed Mohammad Ali, I am a 20 years old computer engineer and math te
   </ul>
   </li>
   <li>Python</li>
-  <li>C/C++</li>
-  <li>MySQL</li>
-  <li>SQL Server</li>
-  <li>Postgres</li>
-  <li>MongoDB</li>
-  <li>GraphDB</li>
-  <li>Hibernate</li>
-  <li>Neo4j</li>
-</ul>
 
-<h3> Fields of interest </h3>
-<ul>
-<li> Back-end Development </li>
-<li> Artificial Intelligence </li>
-<li> Data science </li>
-<li> Analytic number theory</li>
 </ul>
 
 <h3> Contact me</h3>
