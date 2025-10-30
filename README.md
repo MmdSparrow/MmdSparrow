@@ -14,17 +14,17 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MmdSparrow&show_icons=true&count_private=true&title_color=&icon_color=FFD700&text_color=daf7dc&bg_color=070c20"/>
+  <!-- <img height="180" src="https://github-readme-stats.vercel.app/api?username=MmdSparrow&show_icons=true&count_private=true&title_color=&icon_color=FFD700&text_color=daf7dc&bg_color=070c20"/> -->
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MmdSparrow&layout=compact&show_icons=true&title_color=&icon_color=FFD700&text_color=daf7dc&bg_color=070c20&count_private=true"/>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
-- 📚 Self-taught **Data Science & Machine Learning** enthusiast  
-- 🤖 Interested in **Neural Networks, Python, and Flutter apps**  
-- 💡 Strong problem-solving and communication skills  
-- 🌱 Always learning & building real-world projects  
+- 📚 
+- 🤖 
+- 💡  
+- 🌱
 
 ---
 
