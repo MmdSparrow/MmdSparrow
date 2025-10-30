@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Mohammad 👋</h1>
-<h3 align="center">Data Science Enthusiast | ML Learner | Problem Solver</h3>
+<h1 align="center">Hi there, I'm Sayed 👋</h1>
+<h3 align="center">Data Scientist</h3>
 
 <p align="center">
 "Be strong, and let your heart take courage, all you who wait for the LORD!"  
