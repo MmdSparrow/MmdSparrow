@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Sayed 👋</h1>
-<h3 align="center">Data Scientist | AI Specialist</h3>
+<h3 align="center">AI Specialist | Data Scientist</h3>
 
 <!-- --- -->
 
