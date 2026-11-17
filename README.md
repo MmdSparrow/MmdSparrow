@@ -13,7 +13,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 **24-year-old Computer Engineering graduate** from **Amirkabir University of Technology (Tehran Polytechnic)**
+- 🎓 **25-year-old Computer Engineering graduate** from **Amirkabir University of Technology (Tehran Polytechnic)**
 - 💼 **2 years of professional experience as a Backend Developer**
 <!-- - 🔄 Currently transitioning to a career in **Data Science & Machine Learning** -->
 - 🤖 Academic focus in **Artificial Intelligence**
